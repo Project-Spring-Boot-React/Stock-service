@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/entries")
+@RequestMapping("/api/stock/entries")
 @Slf4j
 public class EntryController {
 
